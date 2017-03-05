@@ -1,0 +1,211 @@
+{
+	"basics": {
+		"name": "Mathieu CARBONNEAUX",
+		"label": "IT Devops / Solutions Architect",
+		"picture": "https://media.licdn.com/media/p/1/000/023/3e9/1d02b19.jpg",
+		"email": "info-cv@ch2o.info",
+		"website": "https://www.ch2o.info",
+		"summary": "IT DevOps Solutions Architect, Application Developper, Database Administrator, System Administrator in a wide variety of business applications. Particularly interested in client / server, programation language, application server like j2ee and all that are around of that. Always interested in new technologie. Always needs to learn new thing.",
+		"location": {
+			"city": "Paris",
+			"countryCode": "FR",
+			"region": "Îles de France"
+		},
+		"profiles": [{
+			"network": "Linkedin",
+			"username": "Mathieu CARBONNEAUX",
+			"url": "https://www.linkedin.com/in/mcarbonneaux/"
+		}]
+	},
+	"work": [{
+		"company": "SFR",
+		"position": "IT Devops / Solutions Architect",
+		"website": "http://www.sfr.com",
+		"startDate": "2003-04-01",
+		"summary": "IT Infrastructure Architecture on SFR internal Web Hosting and IT Datacenter.",
+		"highlights": [
+			"SOA",
+			"ESB",
+			"Normalization",
+			"OS Packaging",
+			"Midleware Packaging",
+			"Production Automation"
+		]
+	}, {
+		"company": "ATOS Origin",
+		"position": "IT Infrastructure Enginer",
+		"website": "https://atos.net/en/",
+		"startDate": "2001-01-01",
+		"endDate": "2003-03-31",
+		"summary": "IT Infrastructure Architecture on SFR internal Web Hosting and IT Datacenter.",
+		"highlights": [
+			"TPM Encina L3/4 Support",
+			"ESB",
+			"SOA Normalization",
+			"Projet IT Solutions Refactoring on SFR Major project : BIOS, V&S"
+		]
+	}, {
+		"company": "Adesium",
+		"position": "IT Software Enginer",
+		"website": "http://www.adesium.com",
+		"startDate": "1998-01-01",
+		"endDate": "2000-12-31",
+		"summary": "IT Software development.",
+		"highlights": [
+			"TPM Encina L3/4 Support",
+			"C++/Java Development"
+		]
+	}],
+	"education": [{
+		"institution": "ICEP (Institut comtois d’enseignement polytechnique)",
+		"area": "Information Technology",
+		"studyType": "TRIO (Technique Réseau Informatique et Organisation) ",
+		"startDate": "1995",
+		"endDate": "1996"
+	}, {
+		"institution": "ICEP (Institut comtois d’enseignement polytechnique) ",
+		"area": "Information Technology",
+		"studyType": "BTS Industrial IT (two-year technical degree)",
+		"startDate": "1990",
+		"endDate": "1994"
+	}, {
+		"institution": "Lycée Pasteur (Dole/Jura)",
+		"area": "Electronic",
+		"studyType": "Baccalaureate F2 (Electronic)",
+		"startDate": "1987",
+		"endDate": "1989"
+	}],
+	"skills": [{
+		"name": "IT architecture",
+		"keywords": [
+			"SOA normalization and orientation",
+			"Nomalization of use SOAP and Rest",
+			"Web hosting platform conception and orientation",
+			"Datacenter System and Network general orientation",
+			"Project refactoring of the biggest SFR like V&S, BIOS, SIGC...",
+			"Language usage normalization",
+			"Open Source Monitoring orientation",
+			"SNMP on network device generalization",
+			"Linux generalization",
+			"Virtualization (on VMware) generalization",
+			"Open Source generalization"
+		]
+	}, {
+		"name": "Open Source Monitoring",
+		"keywords": [
+			"Zabbix",
+			"Elasticsearch/Kibana",
+			"Nagios",
+			"Grafana"
+		]
+	}, {
+		"name": "Middleware",
+		"keywords": [
+			"JEE App. Server",
+			"MOM",
+			"Web Server",
+			"Transaction Processisng Application Server",
+			"Ldap Directory Server",
+			"File Monitor gateway",
+			"Tomcat",
+			"JBoss",
+			"Websphere",
+			"Weblogic",
+			"MQSeries",
+			"Apache",
+			"Nginx",
+			"Sun Web Server (Formely Netscape and IPlanet Web Server)",
+			"TXSeries/Encina",
+			"Tuxedo",
+			"Sun Directory Server (ex. Netscape and IPlanet directory server)",
+			"OpenLdap",
+			"OpenDS/DJ",
+			"Axway/XFB",
+			"CFT",
+			"proftpd"
+		]
+	}, {
+		"name": "Operating System",
+		"keywords": [
+			"Support and OS and software Packaging",
+			"RPM for Linux Suse/Redhat",
+			"LPP for AIX",
+			"SD for HP-UX",
+			"pkg for Solaris",
+			"msi for windows",
+			"sysprep for windows",
+			"Kickstart for RedHat/Centos",
+			"Autoyast for Suse linux",
+			"NIM for AIX",
+			"VMware Templating",
+			"Foreman",
+			"TFTP/DHCP/Bootp/PXE"
+		]
+	}, {
+		"name": "Network & Security",
+		"keywords": [
+			"Reverse proxy & Load balancer",
+			"Firewall",
+			"Identity management",
+			"LDAP",
+			"Radius",
+			"OpenID",
+			"SAML",
+			"OAUTH",
+			"HOTP",
+			"OCRA",
+			"OpenAM",
+			"Siteminder",
+			"CA Strong Authentication",
+			"Checkpoint",
+			"Cisco fwsm",
+			"Linux NetFilter",
+			"BSD pf",
+			"Zeus/Virtual Traffic Manager (also on WAF part)",
+			"F5",
+			"HAProxy",
+			"Apache",
+			"Nginx",
+			"SquidCache",
+			"rWeb",
+			"Alteon"
+		]
+	}, {
+		"name": "SGBD",
+		"keywords": [
+			"Database Administration",
+			"Support and Software Packaging",
+			"Development Support",
+			"Oracle",
+			"Mysql",
+			"Postgresql",
+			"Informix"
+		]
+	}, {
+		"name": "Langage",
+		"keywords": [
+			"Java",
+			"C/C++",
+			"PHP",
+			"Javascript",
+			"Shell (bash/ksh/perl/awk)",
+			"TCL"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "CECR B1/B2"
+	}, {
+		"language": "Spanish",
+		"fluency": "CECR B1/B2"
+	}],
+	"interests": [{
+		"name": "Wildlife",
+		"keywords": [
+			"Kayak",
+			"Canyoning",
+			"Climbing",
+			"Treking"
+		]
+	}]
+}
